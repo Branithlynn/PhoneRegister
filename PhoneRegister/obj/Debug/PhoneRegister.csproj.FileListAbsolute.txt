@@ -1,0 +1,15 @@
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\bin\Debug\PhoneRegister.exe.config
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\bin\Debug\PhoneRegister.exe
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\bin\Debug\PhoneRegister.pdb
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\bin\Debug\EntityFramework.dll
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\bin\Debug\EntityFramework.xml
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.csproj.AssemblyReference.cache
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.csproj.CopyComplete
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.exe
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.pdb
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.Migrations.Initial.resources
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.csproj.GenerateResource.cache
+C:\Users\boris\source\repos\PhoneRegister\PhoneRegister\obj\Debug\PhoneRegister.Migrations.newmigration.resources
